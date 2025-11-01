@@ -1,5 +1,7 @@
 # Url Shortner Project
 
+These are the main projects repos you can find.
+
 - [Frontend Project](https://github.com/JeralSandeeptha/url-shortner-frontend)
 - [Gateway Service](https://github.com/JeralSandeeptha/url-shortner-gateway-service)
 - [User Service](https://github.com/JeralSandeeptha/url-shortner-users-service)

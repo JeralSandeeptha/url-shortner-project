@@ -15,6 +15,12 @@ These are the main projects repos you can find.
 
 <br />
 
+## Prereuiresites
+- `docker`
+- `nodejs`
+
+<br />
+
 How to setup the project repos?
 
 - Create a new folder with any name

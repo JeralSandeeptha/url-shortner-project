@@ -12,6 +12,7 @@ These are the main projects repos you can find.
 - [Infrasturcture Porject](https://github.com/JeralSandeeptha/url-shortner-infrastructure)
 - [Kubernates Deployment Project](https://github.com/JeralSandeeptha/url-shortner-k8s)
 - [Dev Environment](https://github.com/JeralSandeeptha/url-shortner-dev-environment)
+- [Project Architecture](https://github.com/JeralSandeeptha/url-shortner-architecture)
 
 <br />
 
@@ -72,6 +73,11 @@ git clone https://github.com/JeralSandeeptha/url-shortner-k8s
 - Clone den environment project
 ```bash
 git clone https://github.com/JeralSandeeptha/url-shortner-dev-environment
+```
+
+- Clone project architecture
+```bash
+git clone https://github.com/JeralSandeeptha/url-shortner-architecture.git
 ```
 
 - You can run rpojects through one by one or you can run the whole project using docker compose which is the file lives under dev environment repo

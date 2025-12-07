@@ -19,6 +19,7 @@ These are the main projects repos you can find.
 ## Prereuiresites
 - `docker`
 - `nodejs`
+- `minikube` / `kind`
 
 <br />
 

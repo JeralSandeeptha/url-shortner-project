@@ -81,4 +81,4 @@ git clone https://github.com/JeralSandeeptha/url-shortner-dev-environment
 git clone https://github.com/JeralSandeeptha/url-shortner-architecture.git
 ```
 
-- You can run rpojects through one by one or you can run the whole project using docker compose which is the file lives under dev environment repo
+- You can run rpojects through one by one or you can run the whole project using docker compose which is the file lives under dev environment repo.
